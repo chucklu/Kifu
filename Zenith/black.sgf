@@ -28,8 +28,13 @@
 ;W[ad];B[ab];W[af];B[bg];W[ch];B[eh];W[bh];B[ah];W[hb];B[ic]
 ;W[gb];B[gc];W[fb];B[ib];W[fa];B[ca];W[ea];B[da]))
 (;B[fd]
-(;W[cf];B[ff];W[fc];B[dd];W[ec];B[dc];W[gd];B[ed];W[hc];B[dh]
-;W[dg];B[eh];W[ch];B[be];W[ce];B[bd];W[bg];B[ef];W[ah];B[bi])
+(;W[cf]
+(;B[ff];W[fc];B[dd];W[ec];B[dc];W[gd];B[ed];W[hc];B[dh];W[dg]
+;B[eh];W[ch];B[be];W[ce];B[bd];W[bg];B[ef];W[ah];B[bi])
+(;B[ef];W[dd];B[dc];W[cc];B[cg];W[df];B[dg];W[fe];B[ee];W[gd]
+;B[ed];W[cd];B[gc];W[ge];B[gg];W[hc];B[gb];W[hf];B[hg];W[hb]
+;B[ha];W[id];B[ib];W[if];B[he];W[fg];B[ff];W[bg];B[bh];W[fh]
+;B[gf]))
 (;W[cd];B[de];W[dd]
 (;B[ee]
 (;W[bf];B[cg];W[cf];B[ce];W[be];B[dg];W[gc];B[fc];W[gd];B[bc]
