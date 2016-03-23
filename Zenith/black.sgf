@@ -14,7 +14,11 @@
 ;W[fc];B[ec];W[ed];B[fd];W[fb];B[dd];W[ea];B[hf];W[gh];B[ic]
 ;W[da];B[ed];W[hb];B[gc];W[gb];B[ib];W[fa];B[ha];W[hg];B[id]
 ;W[if];B[cd];W[df];B[af];W[ah];B[ad];W[bc];B[ia];W[he];B[gd]
-;W[bg];B[cg];W[ch];B[ga];W[aa];B[bb]))
+;W[bg];B[cg];W[ch];B[ga];W[aa];B[bb])
+(;W[gg];B[ge];W[cc];B[dg];W[he];B[hd];W[hf];B[db];W[cb];B[ce]
+;W[ec];B[eb];W[fc];B[dc];W[dd];B[fb];W[gc];B[cd];W[ed];B[gb]
+;W[hc];B[hb];W[de];B[df];W[bd];B[be];W[ac];B[ic];W[fe];B[ef]
+;W[cf];B[bf];W[cg];B[bg]))
 (;B[ed]
 (;W[ce];B[df];W[cf];B[dg];W[ge];B[cc];W[cg];B[dh];W[ch];B[gf]
 ;W[hf];B[hg];W[he];B[gc];W[fc];B[fd];W[hc];B[gd];W[hd];B[ff]
